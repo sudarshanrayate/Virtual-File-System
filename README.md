@@ -111,7 +111,7 @@ Following Data structures used in project :
 	InodeNumber : Unique number of inode.
 	FileSize : size of file.
 	FileActualSize : Actual size of file.
-	FileType : Type of file(Regular or Speacific).
+	FileType : Type of file(Regular or Speacific)
 	Buffer : Buffer is pointer of type character which used to accept input from standard input device. 
 	LinkCount : 
 	ReferenceCount : It's shows How many process use single file.
